@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.DS_Store
+.env*
+*.local
+
+tsconfig.tsbuildinfo
+
+/public/data/
+data/2026-10-12-media-benchmark-*.md
+/public/media/perf/
+/local-*/
+/*-data/
+
+__pycache__/
